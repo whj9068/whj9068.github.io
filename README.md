@@ -2,9 +2,11 @@
 This repository is a clone of [Varadbhogayata's GitHub Repository](https://github.com/varadbhogayata/varadbhogayata.github.io).
 
 ## Activity 1
+Cloning personal website repo into your own GitHub account
 ![Repository Screenshot](./screenshots/RepoScreenshot.png)
 
 ## Activity 2
+Adding your personal information
 ![Website Screenshot](./screenshots/Website.png)
 ![About Screenshot](./screenshots/About.png)
 ![Experience Screenshot](./screenshots/Experience.png)
@@ -12,6 +14,19 @@ This repository is a clone of [Varadbhogayata's GitHub Repository](https://githu
 ![Skills Screenshot](./screenshots/Skills.png)
 ![Education Screenshot](./screenshots/Education.png)
 ![Contact Screenshot](./screenshots/Contact.png)
+
+## Activity 3
+Changing the Theme Color of Your Personal Website
+![Theme Color Change Screenshot](./screenshots/Color.png)
+
+## Activity 4
+Creating new section and embedding google maps
+![Map Screenshot](./screenshots/Map.png)
+
+## Activity 5
+Adding Dynamic Content with JavaScript
+![Load Button Screenshot](./screenshots/Load.png)
+![Load Expand Screenshot](./screenshots/LoadExpand.png)
 
 
 # Personal Portfolio ⚡️ 
