@@ -9,6 +9,14 @@ const projects = [
     date: "2024-01-01",
   },
   {
+    title: "Python Lab",
+    description: "A machine learning lab focusing on data imputation and text classification.",
+    tools: "Python, TensorFlow",
+    link: "#",
+    image: "./assets/img/git.png",
+    date: "2024-09-19",
+  },
+  {
     title: "SQL Toronto Waste Collection Database Analysis",
     description: "A database analysis project focused on waste collection management in Toronto.",
     tools: "SQL, Python",
