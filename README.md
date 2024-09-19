@@ -1,8 +1,17 @@
 # <Haijing Wang> Haijing Wang's Personal Website
 This repository is a clone of [Varadbhogayata's GitHub Repository](https://github.com/varadbhogayata/varadbhogayata.github.io).
 
-Repository Screenshot
+## Activity 1
 ![Repository Screenshot](./screenshots/RepoScreenshot.png)
+
+## Activity 2
+![Website Screenshot](./screenshots/Website.png)
+![About Screenshot](./screenshots/About.png)
+![Experience Screenshot](./screenshots/Experience.png)
+![Projects Screenshot](./screenshots/Projects.png)
+![Skills Screenshot](./screenshots/Skills.png)
+![Education Screenshot](./screenshots/Education.png)
+![Contact Screenshot](./screenshots/Contact.png)
 
 
 # Personal Portfolio ⚡️ 
@@ -42,7 +51,7 @@ Repository Screenshot
 - <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
 
 ## Sections 📚
-✔️ About me\
+✔️ About me
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
