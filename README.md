@@ -1,3 +1,6 @@
+# <Haijing Wang> Personal Website
+This repository is a clone of [Varadbhogayata's GitHub Repository](https://github.com/varadbhogayata/varadbhogayata.github.io).
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
