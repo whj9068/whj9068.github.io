@@ -1,7 +1,6 @@
 # <Haijing Wang> Haijing Wang's Personal Website
 This repository is a clone of [Varadbhogayata's GitHub Repository](https://github.com/varadbhogayata/varadbhogayata.github.io).
 
-![Repository Screenshot](./screenshots/READMEname.png)
 
 
 # Personal Portfolio ⚡️ 
