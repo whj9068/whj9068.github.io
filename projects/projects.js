@@ -5,7 +5,7 @@ const projects = [
     description: "A machine learning lab focusing on data imputation and text classification.",
     tools: "Python, TensorFlow",
     link: "#",
-    image: "/assets/img/project-ml-lab.jpg",
+    image: "/assets/img/nodejs.jpg",
     date: "2024-01-01",
   },
   {
